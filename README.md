@@ -12,6 +12,8 @@ and error "The type or namespace name `MONO' does not exist in the namespace `Da
 
 Notes:
 SQLite supported and working on windows 7 32bit and 64bit 
+
 SQLite supported and working on visual studio 2010
+
 SQLite supported and working with .Net Framework 2.0
 
