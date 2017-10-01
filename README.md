@@ -2,9 +2,11 @@
 How to read and right  on SQLite database ,  SQLite admin  and SQLite Dll windows 32bit and 64bit
 
 
-solving all error in unity for assembly reference
+solving all error in unity for assembly reference:
 
 error "The type or namespace name `Data' does not exist in the namespace `Mono'. Are you missing an assembly reference?" 
+
+
 and error "The type or namespace name `MONO' does not exist in the namespace `Data'. Are you missing an assembly reference?" 
 
 
