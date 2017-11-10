@@ -1,6 +1,10 @@
 # unity-used-SQLite-database
 How to read and right  on SQLite database ,  SQLite admin  and SQLite Dll windows 32bit and 64bit
 
+[![Watch the video](https://img.youtube.com/vi/CtDSQkLdlZg/0.jpg)](http://youtu.be/CtDSQkLdlZg)
+
+[![Watch the video](https://img.youtube.com/vi/swhtUGepAqY/0.jpg)](https://youtu.be/swhtUGepAqY)
+
 
 solving all error in unity for assembly reference:
 
