@@ -1,4 +1,9 @@
 # unity-used-SQLite-database
+
+To show all videos and download  all unity pagackes for free must be Subscriber youtube channel 
+https://www.youtube.com/channel/UCNJVG9_IebHe-NF-K_Y8Grw?sub_confirmation=1
+
+
 How to read and right  on SQLite database ,  SQLite admin  and SQLite Dll windows 32bit and 64bit
 
 [![Watch the video](https://img.youtube.com/vi/CtDSQkLdlZg/0.jpg)](http://youtu.be/CtDSQkLdlZg)
