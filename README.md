@@ -25,6 +25,9 @@ SQLite supported and working on windows 7 32bit and 64bit
 SQLite supported and working on visual studio 2010
 
 SQLite supported and working with .Net Framework 2.0
+## Good Company hosting and low price VPN 
+https://shorturl.edafait.com/?fZVHLor
+
 
 
 ## Can be start web Augmented reality
